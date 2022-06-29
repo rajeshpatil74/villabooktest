@@ -1,4 +1,4 @@
-const Villa = () => <div>Book villa</div>;
+const Villa = () => <div>This is updated individual villa page</div>;
 
 
 export default Villa;
