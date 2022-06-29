@@ -1,0 +1,25 @@
+{
+  "name": "villabooktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshpatil74/villabooktest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshpatil74/villabooktest/issues"
+  },
+  "homepage": "https://github.com/rajeshpatil74/villabooktest#readme",
+  "dependencies": {
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
